@@ -1,4 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
+--file wanda--
 
 local wl,nv,Jj,Vv,Hi,sl=pairs,getmetatable,type,bit32.bxor
 local WE,Zg,Bn,dg,Ep,Kq,xt,FF,hB,Ti,xi,Qo,pD,xc,mu,Jv,jt,em,mD,Db,Kh,rC,wd,ya,Ms;
